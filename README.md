@@ -1,3 +1,1 @@
-- Hi, I’m @avildancetin
-- I am a freshman computer science student at Bilkent University.
-- How to reach me ----> vildan.cetin@ug.bilkent.edu.tr
+
